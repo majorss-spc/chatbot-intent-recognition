@@ -1,0 +1,185 @@
+﻿AUTOMOBILE CUSTOMER SUPPORT KNOWLEDGE BASE
+
+CHAPTER 1: INTRODUCTION
+
+This document provides general automobile customer support information.
+It covers vehicle maintenance, engine oil, tyres, battery, brakes,
+overheating, troubleshooting, servicing and warranty.
+
+CHAPTER 2: REGULAR VEHICLE MAINTENANCE
+
+Regular automobile maintenance helps improve vehicle reliability,
+performance and safety.
+
+Important maintenance activities include:
+1. Checking engine oil.
+2. Checking coolant level.
+3. Inspecting tyre pressure.
+4. Checking brake condition.
+5. Inspecting battery condition.
+6. Checking lights and indicators.
+7. Inspecting air filters.
+8. Following the manufacturer's service schedule.
+
+The vehicle owner's manual should always be followed for
+model-specific maintenance intervals.
+
+CHAPTER 3: ENGINE OIL
+
+Engine oil lubricates moving engine components and helps reduce friction.
+
+General engine oil maintenance guidelines:
+1. Check the oil level according to the owner's manual.
+2. Park the vehicle on a level surface before checking.
+3. Use the oil grade recommended by the manufacturer.
+4. Replace engine oil according to the service schedule.
+5. Investigate unusual oil leakage immediately.
+
+The correct oil grade and replacement interval depend on
+the vehicle model and engine type.
+
+CHAPTER 4: TYRE MAINTENANCE
+
+Tyres provide road grip, stability and braking support.
+
+Important tyre maintenance practices:
+1. Check tyre pressure regularly.
+2. Follow the recommended pressure mentioned in the vehicle manual.
+3. Inspect tyres for cuts, cracks and unusual wear.
+4. Check tyre tread condition.
+5. Follow manufacturer recommendations for tyre rotation.
+6. Use the correct tyre size for the vehicle.
+
+Incorrect tyre pressure can affect handling, fuel efficiency
+and tyre life.
+
+CHAPTER 5: BATTERY PROBLEMS
+
+A vehicle battery supplies electrical power for starting
+and operating electrical systems.
+
+Common signs of battery problems:
+1. Engine does not start.
+2. Slow engine cranking.
+3. Dim headlights.
+4. Battery warning light.
+5. Electrical accessories behave irregularly.
+
+Possible causes include an aged battery, loose connections
+or a charging system problem.
+
+A qualified technician should inspect the battery and
+charging system.
+
+CHAPTER 6: BRAKING SYSTEM
+
+The braking system is essential for vehicle safety.
+
+Possible signs of brake problems:
+1. Unusual noise while braking.
+2. Brake pedal feels unusually soft.
+3. Vehicle pulls to one side during braking.
+4. Brake warning light appears.
+5. Reduced braking performance.
+
+If the brakes are not functioning properly, stop the vehicle
+at a safe location and contact qualified roadside assistance.
+Do not continue driving with suspected brake failure.
+
+CHAPTER 7: ENGINE OVERHEATING
+
+Engine overheating may occur due to cooling system problems,
+low coolant, radiator issues or other mechanical faults.
+
+Warning signs may include:
+1. Temperature warning light.
+2. Temperature gauge entering the red zone.
+3. Steam from the engine compartment.
+4. Unusual engine performance.
+
+If overheating occurs:
+1. Stop at a safe location.
+2. Switch off the engine when safe.
+3. Allow the engine to cool.
+4. Never open a hot radiator cap.
+5. Contact roadside assistance or a qualified technician.
+
+CHAPTER 8: VEHICLE SERVICING
+
+Vehicle servicing helps maintain performance and reliability.
+
+A general service inspection may include:
+1. Engine oil and filter inspection.
+2. Brake inspection.
+3. Tyre inspection.
+4. Battery inspection.
+5. Coolant inspection.
+6. Air filter inspection.
+7. Lights and electrical system inspection.
+8. General vehicle safety inspection.
+
+Service intervals vary by manufacturer, vehicle model,
+driving conditions and usage.
+
+CHAPTER 9: WARRANTY INFORMATION
+
+Vehicle warranty conditions vary according to the manufacturer,
+vehicle model, purchase date and warranty policy.
+
+Customers should check:
+1. Warranty start date.
+2. Warranty duration.
+3. Covered components.
+4. Excluded components.
+5. Maintenance requirements.
+6. Authorized service centre conditions.
+
+Customers should consult their official warranty booklet
+or authorized dealer for accurate coverage information.
+
+CHAPTER 10: COMMON CUSTOMER QUESTIONS
+
+Q1. How often should engine oil be checked?
+
+Answer: Engine oil should be checked regularly according
+to the manufacturer's recommendations.
+
+Q2. Why is my car not starting?
+
+Answer: Possible causes include a weak battery, starter
+system issue or fuel system problem. A technician should
+inspect the vehicle.
+
+Q3. What should I do if my engine overheats?
+
+Answer: Stop safely, switch off the engine when safe,
+allow it to cool and contact roadside assistance.
+
+Q4. Why is tyre pressure important?
+
+Answer: Correct tyre pressure supports handling, braking,
+fuel efficiency and tyre life.
+
+Q5. What should I do if my brakes make unusual noise?
+
+Answer: Arrange a professional brake inspection.
+If braking performance is reduced, stop safely and
+contact roadside assistance.
+
+Q6. How can I check warranty coverage?
+
+Answer: Refer to the official warranty booklet or contact
+the vehicle manufacturer or authorized dealer.
+
+CHAPTER 11: CUSTOMER SUPPORT GUIDELINES
+
+The automobile customer support assistant should:
+1. Understand the customer's query.
+2. Identify the customer's intent.
+3. Retrieve relevant information from the knowledge base.
+4. Provide clear and helpful answers.
+5. Avoid inventing technical specifications.
+6. Recommend qualified technicians for complex problems.
+7. Prioritize customer and vehicle safety.
+
+END OF DOCUMENT
